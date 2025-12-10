@@ -5,8 +5,9 @@ body {
 
 .book-library {
 	background-color: #ffffff
+	box-shadow: 5px 8px
 }
-h2 {
+h1 {
   text-align: center;
   margin-bottom: 30px;
 }
@@ -23,7 +24,6 @@ h2 {
 }
 
 .Book-name {
-  font-weight: bold;
   text-align: left;
 }
 
